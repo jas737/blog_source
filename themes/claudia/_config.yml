@@ -1,0 +1,53 @@
+# Header
+menu:
+  首页: /
+  #My Works: /works
+  关于: /about
+  #Tags: /tags
+
+rss: /atom.xml
+
+# User Info
+user_name: Jasmine
+user_avatar: /images/myself/avatar.jpg
+user_location: 广州
+user_description: "一个设计师"
+user_contact: jas737@163.com
+user_introduction: "<p>脚踏实地，切莫好高骛远 <br>
+                        唯有热爱，才能更加精彩</p>"
+
+github_username: jas737 
+wechat_qrcode: /images/myself/wechat_qrcode.jpg
+
+# Content
+excerpt_link: Read More
+fancybox: true
+
+# display widgets at the bottom of index pages (pagination == 2)
+#index_widgets:
+# - category
+# - tagcloud
+# - archive
+
+# widget behavior
+#archive_type: 'monthly'
+#show_count: false
+
+# 评论系统
+# 不要用别人的 uid, 自己去注册一个吧
+use_livere: true
+livere_uid: MTAyMC8yOTE4Ni81NzUz
+
+use_disqus: false
+disqus_url: https://haojen.disqus.com/embed.js
+
+# Miscellaneous
+google_analytics:
+favicon: /images/myself/avatar.jpg
+#favicon: /favicon.png
+#twitter:
+#google_plus:
+#fb_admins:
+#fb_app_id:
+
+
